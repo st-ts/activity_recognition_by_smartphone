@@ -1,2 +1,2 @@
-# activity_recognition_by_smartphone
-Human activity recognition using smartphones
+# Human activity recognition using smartphone
+This dataset 
