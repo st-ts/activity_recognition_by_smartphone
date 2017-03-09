@@ -1,0 +1,2 @@
+# activity_recognition_by_smartphone
+Human activity recognition using smartphones
